@@ -13,3 +13,13 @@ class ArticlesTable extends PrefixedTable /*Table*/
   ...
 }
 ```
+
+In your Datasources configuration, add 'table_prefix' (app.php, or app_local.php ...)
+```
+'Datasources' => [
+        'default' => [
+            ...
+
+            'table_prefix' => 'toto_',
+        ],
+```
