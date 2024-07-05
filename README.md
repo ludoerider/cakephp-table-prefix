@@ -1,5 +1,5 @@
 # cakephp-table-prefix
-Ttable or database prefix for CakePHP 5
+Table or database prefix for CakePHP 5
 
 
 ## Implement :
